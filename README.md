@@ -1,4 +1,4 @@
-## About me : writing_hand
+
 Hello, friend👋! I'm Siddharth 
 
 <h1 align="center">Hi  I'm Just getting started in open source development.</h1>
