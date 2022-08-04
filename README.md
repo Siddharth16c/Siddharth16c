@@ -7,7 +7,7 @@ Hello, friend👋! I'm Siddharth
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth16c&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth16c" /> </p>
 
-<p align="left"> <a href="https://twitter.com/lazylucidreamer" target="blank"><img src="https://img.shields.io/twitter/follow/lazylucidreamer?logo=twitter&style=for-the-badge" alt="lazylucidreamer" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lazylucidreamer" target="blank"><img src="https://img.shields.io/twitter/follow/siDarthVad3r?logo=twitter&style=for-the-badge" alt="lazylucidreamer" /></a> </p>
 
 - 🔭 I’m currently working on **Birthday management app**
 
@@ -19,7 +19,7 @@ Hello, friend👋! I'm Siddharth
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lazylucidreamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lazylucidreamer" height="30" width="40" /></a>
+<a href="https://twitter.com/siDarthVad3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siDarthVad3r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
