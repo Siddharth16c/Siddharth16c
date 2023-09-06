@@ -5,7 +5,7 @@ Hello, friend👋! I'm Siddharth
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" alt="minion typing" src="https://techsable.com/wp-content/uploads/2018/10/Tehsable.com-minion.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth16c&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth16c" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/lazylucidreamer" target="blank"><img src="https://img.shields.io/twitter/follow/siDarthVad3r?logo=twitter&style=for-the-badge" alt="lazylucidreamer" /></a> </p>
 
