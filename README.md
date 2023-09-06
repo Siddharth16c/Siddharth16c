@@ -9,9 +9,9 @@ Hello, friend👋! I'm Siddharth
 
 <p align="left"> <a href="https://twitter.com/lazylucidreamer" target="blank"><img src="https://img.shields.io/twitter/follow/siDarthVad3r?logo=twitter&style=for-the-badge" alt="lazylucidreamer" /></a> </p>
 
-- 🔭 I’m currently working on **Birthday management app**
+- 🔭 I’m currently working on **Movie-streaming-app**
 
-- 🌱 I’m currently learning **Java, react and development methodologies**
+- 🌱 I’m currently learning **C#, .Net, SQL, JS core, angular and react**
 
 - 📫 How to reach me **jeswanisiddharth16@gmail.com**
 
