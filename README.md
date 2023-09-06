@@ -2,7 +2,7 @@
 Hello, friend👋! I'm Siddharth 
 
 <h1 align="center">Hi  I'm Just getting started in open source development.</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An inquisitive developer from India</h3>
 <img align="right" width="400" alt="minion typing" src="https://techsable.com/wp-content/uploads/2018/10/Tehsable.com-minion.gif">
 
 
